@@ -16,17 +16,5 @@
 
 int main(int argc, char* argv[]){
 
-	CMF::ICMFApp app;
-	// std::vector<Vertex> varr = {
-	// 	Vertex(7, 7, 7),
-	// 	Vertex(6, 6, 6),
-	// 	Vertex(5, 5, 5),
-	// 	Vertex(4, 4, 4),
-	// 	Vertex(3, 3, 3),
-	// 	Vertex(2, 2, 2),
-	// 	Vertex(0, 0, 0),
-	// 	Vertex(-1, -1, -1)
-	// };
-
 	return 0;
 }
